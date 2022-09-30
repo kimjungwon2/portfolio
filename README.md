@@ -19,6 +19,6 @@
 >개발 기간: 4개월
 ></br></br>
 >기술 스택:</br>
->**BackEnd**: Java(1.8) / Spring Boot(2.5.2) / JPA / Spring Data JPA / QueryDSL(1.0.10) / Spring Security / JWT(0.11.2)</br>
->**DevOps**: MySQL / AWS S3(2.0.1) / AWS CDN / AWS Lambda</br>
->**FrontEnd**: HTML / CSS / Vue.js(4.5.13)
+>**BackEnd**: Java / Spring Boot / JPA / Spring Data JPA / QueryDSL / Spring Security / JWT</br>
+>**DevOps**: MySQL / AWS S3 / AWS CDN / AWS Lambda</br>
+>**FrontEnd**: HTML / CSS / Vue.js
